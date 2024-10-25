@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+   padding: 0px;   /*  we are overriding the defualt setting by these comand */
+}
+.heading{
+    background-color: green;
+    padding: 5px;
+    border: 2px solid red ;
+    margin: 10px ;
+    width: 200px;
+    margin:0 auto;
+    
+
+}
+#parag{
+    margin-top: 55px;
+    padding:55px;
+    color: aliceblue;
+    background-color: blue;
+    height: 40px;
+
+}
